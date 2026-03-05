@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "notify-xiaomi": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\YourUsername\\notify-xiaomi-mcp-server\\src\\server.py"
+      ],
+      "env": {}
+    }
+  }
+}
